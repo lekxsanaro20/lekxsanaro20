@@ -1,3 +1,4 @@
+<img width="2000" height="600" alt="github banner" src="https://github.com/user-attachments/assets/0d2f1f87-5105-4a7f-9673-79172a1aa0e4" />
 # Hi, I'm Alekxia! 👋
 
 🌟 Passionate about technology, design, and continuous learning.  
